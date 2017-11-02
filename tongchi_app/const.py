@@ -1,0 +1,9 @@
+NO_REQUEST = 0
+REQUESTING = 1
+WAITING = 2
+ACCEPT = 3
+DENY = 4
+TIMEOUT = 5
+
+REQUEST_TABLE = 'tongchi_app_request'
+TIMEOUT_SEC = 15
