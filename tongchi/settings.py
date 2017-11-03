@@ -25,7 +25,7 @@ SECRET_KEY = 'p+56((m)3)e1@q_qaukmlw4pwgl)m_c((f8@t8uc&tn83$vg&a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['weijiel-woofer.googleplex.com']
+ALLOWED_HOSTS = ['weijiel-woofer.googleplex.com','localhost','127.0.0.1']
 
 
 # Application definition
